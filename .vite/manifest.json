@@ -1,0 +1,17 @@
+{
+  "index.html": {
+    "file": "assets/index-D9ngz8uH.js",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index-Dr6xIw4v.css"
+    ],
+    "assets": [
+      "assets/icon512-EBr1QNB0.png"
+    ]
+  },
+  "public/icon512.png": {
+    "file": "assets/icon512-EBr1QNB0.png",
+    "src": "public/icon512.png"
+  }
+}
